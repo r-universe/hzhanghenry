@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RCircos"]
+	path = RCircos
+	url = https://github.com/hzhanghenry/rcircos
+	shallow = true
+	registered = true
